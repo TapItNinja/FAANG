@@ -19,6 +19,6 @@ public:
             prev1=curr;
         }
         
-        return curr;
+        return prev1;
     }
 };
