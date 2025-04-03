@@ -23,6 +23,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TapItNinja/FAANG/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0088-merge-sorted-array) |
+| [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
