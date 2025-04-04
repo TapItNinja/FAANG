@@ -8,7 +8,6 @@ public:
                 mpp[nums[i]]=true;
                 nums[idx++]=nums[i];
             }
-
         }
         return idx;
     }
