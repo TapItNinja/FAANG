@@ -10,6 +10,6 @@ public:
             }
             mpp[nums[i]]=i;
         }
-        return {0, 1};
+        return {};
     }
 };
