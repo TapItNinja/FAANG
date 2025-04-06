@@ -21,3 +21,7 @@ public:
         return total;
     }
 };
+
+//TC- O(3N)
+//SC- O(2N)
+
