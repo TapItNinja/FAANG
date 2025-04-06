@@ -37,6 +37,7 @@
 | [0485-max-consecutive-ones](https://github.com/TapItNinja/FAANG/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TapItNinja/FAANG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0088-merge-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TapItNinja/FAANG/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
