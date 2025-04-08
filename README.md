@@ -55,6 +55,7 @@
 | [0042-trapping-rain-water](https://github.com/TapItNinja/FAANG/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TapItNinja/FAANG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TapItNinja/FAANG/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/TapItNinja/FAANG/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
