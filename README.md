@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TapItNinja/FAANG/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/TapItNinja/FAANG/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TapItNinja/FAANG/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TapItNinja/FAANG/tree/master/0031-next-permutation) |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TapItNinja/FAANG/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TapItNinja/FAANG/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TapItNinja/FAANG/tree/master/0031-next-permutation) |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/TapItNinja/FAANG/tree/master/0058-length-of-last-word) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TapItNinja/FAANG/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
