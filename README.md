@@ -63,6 +63,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/TapItNinja/FAANG/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
