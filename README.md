@@ -58,6 +58,7 @@
 | [0141-linked-list-cycle](https://github.com/TapItNinja/FAANG/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/TapItNinja/FAANG/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TapItNinja/FAANG/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,8 +147,10 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TapItNinja/FAANG/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
