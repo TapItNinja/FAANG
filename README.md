@@ -33,6 +33,7 @@
 | [0035-search-insert-position](https://github.com/TapItNinja/FAANG/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/TapItNinja/FAANG/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TapItNinja/FAANG/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/TapItNinja/FAANG/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/TapItNinja/FAANG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TapItNinja/FAANG/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/TapItNinja/FAANG/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TapItNinja/FAANG/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/TapItNinja/FAANG/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
