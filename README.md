@@ -79,6 +79,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/TapItNinja/FAANG/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TapItNinja/FAANG/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/TapItNinja/FAANG/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/TapItNinja/FAANG/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TapItNinja/FAANG/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/TapItNinja/FAANG/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/TapItNinja/FAANG/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/TapItNinja/FAANG/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
@@ -145,6 +147,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TapItNinja/FAANG/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/TapItNinja/FAANG/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
