@@ -137,6 +137,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TapItNinja/FAANG/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TapItNinja/FAANG/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/TapItNinja/FAANG/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/TapItNinja/FAANG/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/TapItNinja/FAANG/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
