@@ -31,6 +31,7 @@
 | [0027-remove-element](https://github.com/TapItNinja/FAANG/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TapItNinja/FAANG/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/TapItNinja/FAANG/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/TapItNinja/FAANG/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/TapItNinja/FAANG/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TapItNinja/FAANG/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/TapItNinja/FAANG/tree/master/0066-plus-one) |
@@ -202,5 +203,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/TapItNinja/FAANG/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/TapItNinja/FAANG/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
