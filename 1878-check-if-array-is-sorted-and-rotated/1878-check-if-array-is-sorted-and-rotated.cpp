@@ -1,22 +1,17 @@
 class Solution {
 public:
-    int min(vector<int>nums){
+    bool check(vector<int>& nums) {
         int n=nums.size();
-        for(int i=1; i<n; i++){
-            if(nums[i-1]>nums[i]){
-                return i;
+        int i=0;
+        for(i=0; i<n-1; i++){
+            if(nums[i]>nums[i+1]){
+                break;
             }
         }
-        return 0;
-    }
-    bool check(vector<int>& nums) {
-        int min1=min(nums);
-        int n=nums.size();
-        for(int i=1; i<nums.size(); i++){
-            int prev=nums[(min1+i-1)%n];
-            int curr=nums[(min1+i)%n];
-            if(prev>curr)return false;
+        if(i==n-1)return true;
+        for(int j=i+1; j<n-1; j++){
+            if(nums[j]>nums[j+1]) return false;
         }
-        return true;
+        return nums[n-1]<=nums[0];
     }
 };
