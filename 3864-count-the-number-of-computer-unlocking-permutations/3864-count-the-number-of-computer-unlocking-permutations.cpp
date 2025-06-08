@@ -1,16 +1,16 @@
 class Solution {
-    static const int MOD = 1000000007;
 public:
     int countPermutations(vector<int>& complexity) {
         int n = complexity.size();
-        for (int i = 1; i < n; ++i) {
-            if (complexity[0] >= complexity[i]) 
-                return 0;
+        int bossTask = complexity[0]; // you, the boss
+        for (int i = 1; i < n; i++) {
+            if (complexity[i] <= bossTask) 
+                return 0; // someone dares to have an easier task? Nope!
         }
-        long long ans = 1;
-        for (int i = 2; i < n; ++i) {
-            ans = ans * i % MOD;
+        int ans = 1;
+        for (int i = 2; i < n; i++) {
+            ans = 1LL * ans * i % 1000000007; // modular factorial power \U0001f4aa
         }
-        return (int)ans;
+        return ans;
     }
 };
