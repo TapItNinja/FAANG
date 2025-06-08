@@ -1,22 +1,22 @@
 class Solution {
 public:
-    void backtrack(int start, vector<int>&candidates, int target, vector<vector<int>>&results, vector<int>combo){
+    void solve(int i, vector<vector<int>>&ans, vector<int>&combination, int n,int target, vector<int>&candidates){
         if(target==0){
-            results.push_back(combo);
+            ans.push_back(combination);
             return;
         }
-        for(int i=start; i<candidates.size(); i++){
-            if(candidates[i]<=target){
-                combo.push_back(candidates[i]);
-                backtrack(i, candidates, target-candidates[i], results, combo);
-                combo.pop_back();
-            }
+        if (target < 0) return;
+        for(int start=i; start<n; start++){
+            combination.push_back(candidates[start]);
+            solve(start, ans, combination, n, target-candidates[start], candidates);
+            combination.pop_back();
         }
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>>results;
-        vector<int>combo;
-        backtrack(0, candidates, target, results, combo);
-        return results;
+        int n=candidates.size();
+        vector<vector<int>>ans;
+        vector<int>combination;
+        solve(0, ans, combination, n, target, candidates);
+        return ans;
     }
 };
