@@ -46,6 +46,7 @@
 | [0152-maximum-product-subarray](https://github.com/TapItNinja/FAANG/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/TapItNinja/FAANG/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/TapItNinja/FAANG/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TapItNinja/FAANG/tree/master/0283-move-zeroes) |
@@ -217,6 +218,7 @@
 | [0051-n-queens](https://github.com/TapItNinja/FAANG/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/TapItNinja/FAANG/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/TapItNinja/FAANG/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/TapItNinja/FAANG/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
