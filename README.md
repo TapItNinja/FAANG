@@ -42,6 +42,7 @@
 | [0088-merge-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TapItNinja/FAANG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/TapItNinja/FAANG/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/TapItNinja/FAANG/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/TapItNinja/FAANG/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/TapItNinja/FAANG/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TapItNinja/FAANG/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/TapItNinja/FAANG/tree/master/0135-candy) |
 ## Linked List
 |  |
 | ------- |
