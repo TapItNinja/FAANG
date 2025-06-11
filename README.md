@@ -22,6 +22,7 @@
 | [1827-invalid-tweets](https://github.com/TapItNinja/FAANG/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/TapItNinja/FAANG/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/TapItNinja/FAANG/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/TapItNinja/FAANG/tree/master/2087-confirmation-rate) |
 ## Array
 |  |
 | ------- |
