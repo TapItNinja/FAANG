@@ -61,6 +61,7 @@
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TapItNinja/FAANG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/TapItNinja/FAANG/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
 | ------- |
