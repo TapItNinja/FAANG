@@ -21,12 +21,8 @@ public:
     }
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>>ans;
-        vector<string>board(n);
-        string s(n,'.');
-        for(int i=0; i<n; i++){
-            board[i]=s;
-        }
-        vector<int>Row(n, 0), UpperD(2*n-1, 0), LowerD(2*n-1, 0);
+        vector<string>board(n, string(n,'.'));
+        vector<int>Row(n,0), UpperD(2*n-1, 0), LowerD(2*n-1, 0);
         solve(0, ans, board, Row, UpperD, LowerD, n);
         return ans;
     }
