@@ -1,17 +1,15 @@
 class Solution {
 public:
     int reverse(int x) {
-        int res = 0;
-        while (x != 0) {
-            int rem = x % 10;
-            
-            // Check for overflow before multiplying or adding
-            if (res > INT_MAX / 10 || (res == INT_MAX / 10 && rem > 7)) return 0;
-            if (res < INT_MIN / 10 || (res == INT_MIN / 10 && rem < -8)) return 0;
-            
-            res = res * 10 + rem;
-            x /= 10;
+        int n=x;
+        int rev=0;
+        while(n!=0){
+            int rem=n%10;
+            n/=10;
+            if(rev>INT_MAX/10 || (rev==INT_MAX/10 && rem>7))return 0;
+            if(rev<INT_MIN/10 || (rev==INT_MIN/10 && rem<-8))return 0;
+            rev=rev*10+rem;
         }
-        return res;
+        return rev;
     }
 };
