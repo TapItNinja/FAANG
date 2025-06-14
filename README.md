@@ -108,6 +108,7 @@
 | [0069-sqrtx](https://github.com/TapItNinja/FAANG/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TapItNinja/FAANG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0078-subsets](https://github.com/TapItNinja/FAANG/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/TapItNinja/FAANG/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -227,6 +229,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/TapItNinja/FAANG/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/TapItNinja/FAANG/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 ## Tree
