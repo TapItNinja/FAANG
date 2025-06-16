@@ -63,6 +63,7 @@
 | [0283-move-zeroes](https://github.com/TapItNinja/FAANG/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/TapItNinja/FAANG/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/TapItNinja/FAANG/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
 | [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TapItNinja/FAANG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -131,6 +132,7 @@
 | [0198-house-robber](https://github.com/TapItNinja/FAANG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TapItNinja/FAANG/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/TapItNinja/FAANG/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -273,6 +275,7 @@
 | [0052-n-queens-ii](https://github.com/TapItNinja/FAANG/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/TapItNinja/FAANG/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/TapItNinja/FAANG/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
