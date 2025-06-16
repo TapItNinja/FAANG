@@ -66,6 +66,7 @@
 | [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TapItNinja/FAANG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/TapItNinja/FAANG/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TapItNinja/FAANG/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/TapItNinja/FAANG/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
