@@ -5,10 +5,10 @@ public:
         for(int i=0; i<nums.size(); i++){
             int complement=target-nums[i];
             if(mpp.find(complement)!=mpp.end()){
-                return {i, mpp[complement]};
+                return {mpp[complement], i};
             }
             mpp[nums[i]]=i;
         }
-        return {0,0};
+        return {0, 0};
     }
 };
