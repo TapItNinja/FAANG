@@ -59,6 +59,7 @@
 | [0213-house-robber-ii](https://github.com/TapItNinja/FAANG/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/TapItNinja/FAANG/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/TapItNinja/FAANG/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/TapItNinja/FAANG/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TapItNinja/FAANG/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/TapItNinja/FAANG/tree/master/0377-combination-sum-iv) |
@@ -160,6 +161,7 @@
 | [0141-linked-list-cycle](https://github.com/TapItNinja/FAANG/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TapItNinja/FAANG/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/TapItNinja/FAANG/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/TapItNinja/FAANG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TapItNinja/FAANG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -303,6 +305,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/TapItNinja/FAANG/tree/master/0219-contains-duplicate-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/TapItNinja/FAANG/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |
