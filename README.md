@@ -97,6 +97,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TapItNinja/FAANG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/TapItNinja/FAANG/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TapItNinja/FAANG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TapItNinja/FAANG/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TapItNinja/FAANG/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/TapItNinja/FAANG/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -130,6 +131,7 @@
 | [0242-valid-anagram](https://github.com/TapItNinja/FAANG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TapItNinja/FAANG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TapItNinja/FAANG/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Math
 |  |
@@ -258,6 +260,7 @@
 | [0011-container-with-most-water](https://github.com/TapItNinja/FAANG/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/TapItNinja/FAANG/tree/master/0135-candy) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TapItNinja/FAANG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TapItNinja/FAANG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TapItNinja/FAANG/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TapItNinja/FAANG/tree/master/3241-divide-array-into-arrays-with-max-difference) |
