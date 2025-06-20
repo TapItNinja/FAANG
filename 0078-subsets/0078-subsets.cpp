@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
         int n=nums.size();
-        if(n==0)return {{}};
         int sub=1<<n;
         vector<vector<int>>ans;
         for(int i=0; i<sub; i++){
