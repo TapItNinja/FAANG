@@ -317,6 +317,7 @@
 | [0040-combination-sum-ii](https://github.com/TapItNinja/FAANG/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/TapItNinja/FAANG/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/TapItNinja/FAANG/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/TapItNinja/FAANG/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/TapItNinja/FAANG/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/TapItNinja/FAANG/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
