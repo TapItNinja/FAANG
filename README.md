@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/TapItNinja/FAANG/tree/master/0067-add-binary) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/TapItNinja/FAANG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -259,6 +260,7 @@
 | [0205-isomorphic-strings](https://github.com/TapItNinja/FAANG/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TapItNinja/FAANG/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/TapItNinja/FAANG/tree/master/1894-merge-strings-alternately) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/TapItNinja/FAANG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/TapItNinja/FAANG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TapItNinja/FAANG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/TapItNinja/FAANG/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
