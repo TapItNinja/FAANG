@@ -90,6 +90,7 @@
 | [0219-contains-duplicate-ii](https://github.com/TapItNinja/FAANG/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TapItNinja/FAANG/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/TapItNinja/FAANG/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/TapItNinja/FAANG/tree/master/0377-combination-sum-iv) |
@@ -181,6 +182,7 @@
 | [0152-maximum-product-subarray](https://github.com/TapItNinja/FAANG/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TapItNinja/FAANG/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TapItNinja/FAANG/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/TapItNinja/FAANG/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/TapItNinja/FAANG/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0747-min-cost-climbing-stairs) |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TapItNinja/FAANG/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/TapItNinja/FAANG/tree/master/0322-coin-change) |
 ## Trie
 |  |
 | ------- |
