@@ -166,6 +166,7 @@
 | [0258-add-digits](https://github.com/TapItNinja/FAANG/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/TapItNinja/FAANG/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1236-n-th-tribonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/TapItNinja/FAANG/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/TapItNinja/FAANG/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/TapItNinja/FAANG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
@@ -292,6 +294,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/TapItNinja/FAANG/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/TapItNinja/FAANG/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
 | [1894-merge-strings-alternately](https://github.com/TapItNinja/FAANG/tree/master/1894-merge-strings-alternately) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TapItNinja/FAANG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/TapItNinja/FAANG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
