@@ -165,6 +165,7 @@
 | [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/TapItNinja/FAANG/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/TapItNinja/FAANG/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1236-n-th-tribonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -327,6 +328,7 @@
 | [0206-reverse-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/TapItNinja/FAANG/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |
