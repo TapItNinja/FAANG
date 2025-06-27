@@ -205,6 +205,7 @@
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/TapItNinja/FAANG/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/TapItNinja/FAANG/tree/master/0436-find-right-interval) |
 | [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/TapItNinja/FAANG/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -409,4 +410,8 @@
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/TapItNinja/FAANG/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/TapItNinja/FAANG/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
