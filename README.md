@@ -104,6 +104,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TapItNinja/FAANG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/TapItNinja/FAANG/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/TapItNinja/FAANG/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TapItNinja/FAANG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TapItNinja/FAANG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -147,6 +148,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/TapItNinja/FAANG/tree/master/0436-find-right-interval) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TapItNinja/FAANG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TapItNinja/FAANG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/TapItNinja/FAANG/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/TapItNinja/FAANG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -234,6 +236,7 @@
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TapItNinja/FAANG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/TapItNinja/FAANG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TapItNinja/FAANG/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
@@ -378,6 +381,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TapItNinja/FAANG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Merge Sort
 |  |
 | ------- |
