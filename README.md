@@ -182,6 +182,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/TapItNinja/FAANG/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TapItNinja/FAANG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/TapItNinja/FAANG/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Dynamic Programming
 |  |
@@ -256,6 +257,7 @@
 | [0136-single-number](https://github.com/TapItNinja/FAANG/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +280,7 @@
 | [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/TapItNinja/FAANG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
 | ------- |
@@ -353,6 +356,7 @@
 | [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/TapItNinja/FAANG/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
