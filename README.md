@@ -184,6 +184,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/TapItNinja/FAANG/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TapItNinja/FAANG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/TapItNinja/FAANG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/TapItNinja/FAANG/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Dynamic Programming
 |  |
@@ -260,6 +261,7 @@
 | [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/TapItNinja/FAANG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | [0326-power-of-three](https://github.com/TapItNinja/FAANG/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/TapItNinja/FAANG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
 |  |
 | ------- |
