@@ -268,6 +268,7 @@
 | [0067-add-binary](https://github.com/TapItNinja/FAANG/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/TapItNinja/FAANG/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/TapItNinja/FAANG/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/TapItNinja/FAANG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -277,6 +278,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/TapItNinja/FAANG/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/TapItNinja/FAANG/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
