@@ -193,6 +193,7 @@
 | [0507-perfect-number](https://github.com/TapItNinja/FAANG/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TapItNinja/FAANG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/TapItNinja/FAANG/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TapItNinja/FAANG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -377,6 +378,7 @@
 | [0206-reverse-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TapItNinja/FAANG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
