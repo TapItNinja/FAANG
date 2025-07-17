@@ -98,6 +98,7 @@
 | [0436-find-right-interval](https://github.com/TapItNinja/FAANG/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/TapItNinja/FAANG/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/TapItNinja/FAANG/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
@@ -266,6 +267,7 @@
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/TapItNinja/FAANG/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/TapItNinja/FAANG/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -321,10 +323,12 @@
 | [0042-trapping-rain-water](https://github.com/TapItNinja/FAANG/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/TapItNinja/FAANG/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/TapItNinja/FAANG/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TapItNinja/FAANG/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/TapItNinja/FAANG/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
