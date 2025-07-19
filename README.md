@@ -103,6 +103,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TapItNinja/FAANG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/TapItNinja/FAANG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -349,6 +350,7 @@
 | [0242-valid-anagram](https://github.com/TapItNinja/FAANG/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TapItNinja/FAANG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1894-merge-strings-alternately](https://github.com/TapItNinja/FAANG/tree/master/1894-merge-strings-alternately) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TapItNinja/FAANG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/TapItNinja/FAANG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -409,6 +411,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0144-binary-tree-preorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,6 +426,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TapItNinja/FAANG/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Backtracking
 |  |
 | ------- |
