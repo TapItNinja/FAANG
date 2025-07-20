@@ -110,6 +110,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TapItNinja/FAANG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TapItNinja/FAANG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/TapItNinja/FAANG/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/TapItNinja/FAANG/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/TapItNinja/FAANG/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/TapItNinja/FAANG/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TapItNinja/FAANG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -274,6 +275,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/TapItNinja/FAANG/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/TapItNinja/FAANG/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TapItNinja/FAANG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/TapItNinja/FAANG/tree/master/2479-meeting-rooms-iii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/TapItNinja/FAANG/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -352,6 +354,7 @@
 | [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1894-merge-strings-alternately](https://github.com/TapItNinja/FAANG/tree/master/1894-merge-strings-alternately) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/TapItNinja/FAANG/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TapItNinja/FAANG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/TapItNinja/FAANG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/TapItNinja/FAANG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -427,6 +430,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TapItNinja/FAANG/tree/master/0014-longest-common-prefix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/TapItNinja/FAANG/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -509,4 +513,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/TapItNinja/FAANG/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/TapItNinja/FAANG/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
