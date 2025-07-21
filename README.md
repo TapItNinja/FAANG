@@ -352,6 +352,7 @@
 | [0242-valid-anagram](https://github.com/TapItNinja/FAANG/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TapItNinja/FAANG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/TapItNinja/FAANG/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1894-merge-strings-alternately](https://github.com/TapItNinja/FAANG/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/TapItNinja/FAANG/tree/master/2079-delete-duplicate-folders-in-system) |
