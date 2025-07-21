@@ -82,6 +82,7 @@
 | [0135-candy](https://github.com/TapItNinja/FAANG/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/TapItNinja/FAANG/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/TapItNinja/FAANG/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/TapItNinja/FAANG/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/TapItNinja/FAANG/tree/master/0198-house-robber) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/TapItNinja/FAANG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/TapItNinja/FAANG/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TapItNinja/FAANG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TapItNinja/FAANG/tree/master/0242-valid-anagram) |
@@ -462,10 +464,12 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/TapItNinja/FAANG/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/TapItNinja/FAANG/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 ## Counting Sort
 |  |
