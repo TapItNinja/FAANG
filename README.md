@@ -120,6 +120,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TapItNinja/FAANG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/TapItNinja/FAANG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/TapItNinja/FAANG/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/TapItNinja/FAANG/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TapItNinja/FAANG/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -294,6 +295,7 @@
 | [0191-number-of-1-bits](https://github.com/TapItNinja/FAANG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/TapItNinja/FAANG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/TapItNinja/FAANG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
@@ -423,12 +425,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TapItNinja/FAANG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0144-binary-tree-preorder-traversal) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/TapItNinja/FAANG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0144-binary-tree-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/TapItNinja/FAANG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
