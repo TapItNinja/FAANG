@@ -115,6 +115,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/TapItNinja/FAANG/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/TapItNinja/FAANG/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/TapItNinja/FAANG/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TapItNinja/FAANG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TapItNinja/FAANG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/TapItNinja/FAANG/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -299,6 +300,7 @@
 | [0191-number-of-1-bits](https://github.com/TapItNinja/FAANG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TapItNinja/FAANG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/TapItNinja/FAANG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/TapItNinja/FAANG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -470,6 +472,7 @@
 | [0216-combination-sum-iii](https://github.com/TapItNinja/FAANG/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TapItNinja/FAANG/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TapItNinja/FAANG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -508,6 +511,7 @@
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TapItNinja/FAANG/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TapItNinja/FAANG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/TapItNinja/FAANG/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/TapItNinja/FAANG/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/TapItNinja/FAANG/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
