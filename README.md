@@ -103,6 +103,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/TapItNinja/FAANG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TapItNinja/FAANG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -233,6 +234,7 @@
 | [0377-combination-sum-iv](https://github.com/TapItNinja/FAANG/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0747-min-cost-climbing-stairs) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/TapItNinja/FAANG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1236-n-th-tribonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TapItNinja/FAANG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -303,6 +305,7 @@
 | [0191-number-of-1-bits](https://github.com/TapItNinja/FAANG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/TapItNinja/FAANG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TapItNinja/FAANG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/TapItNinja/FAANG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/TapItNinja/FAANG/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
