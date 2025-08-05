@@ -139,6 +139,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/TapItNinja/FAANG/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/TapItNinja/FAANG/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/TapItNinja/FAANG/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/TapItNinja/FAANG/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/TapItNinja/FAANG/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/TapItNinja/FAANG/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/TapItNinja/FAANG/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/TapItNinja/FAANG/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -345,6 +347,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/TapItNinja/FAANG/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/TapItNinja/FAANG/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -574,8 +577,13 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/TapItNinja/FAANG/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/TapItNinja/FAANG/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TapItNinja/FAANG/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/TapItNinja/FAANG/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
