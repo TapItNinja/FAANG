@@ -7,10 +7,9 @@ public:
             int complement=target-nums[i];
             if(mpp.find(complement)!=mpp.end()){
                 return {i, mpp[complement]};
-            }else{
-                mpp[nums[i]]=i;
             }
+            mpp[nums[i]]=i;
         }
-        return {-1, -1};
+        return  {-1, -1};
     }
 };
