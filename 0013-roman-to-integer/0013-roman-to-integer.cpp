@@ -9,16 +9,18 @@ public:
             {'C', 100},
             {'D', 500},
             {'M', 1000}
-            };
-            int sum=0;
-            int n=s.size();
-            for(int i=0; i<n; i++){
-                if(i+1<n && mpp[s[i]]<mpp[s[i+1]]){
-                    sum-=mpp[s[i]];
-                }else{
-                    sum+=mpp[s[i]];
-                }
+        };
+        int sum=0;
+        int n=s.size();
+        for(int i=0; i<n; i++){
+            if(i+1<n && mpp[s[i+1]]>mpp[s[i]] ){
+                sum+=mpp[s[i+1]]-mpp[s[i]];
+                i++;
             }
-            return sum;
+            else{
+                sum+=mpp[s[i]];
+            }
         }
+        return sum;
+    }
 };
