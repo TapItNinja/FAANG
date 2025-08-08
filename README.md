@@ -215,6 +215,7 @@
 | [0326-power-of-three](https://github.com/TapItNinja/FAANG/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/TapItNinja/FAANG/tree/master/0507-perfect-number) |
+| [0826-soup-servings](https://github.com/TapItNinja/FAANG/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TapItNinja/FAANG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -241,6 +242,7 @@
 | [0377-combination-sum-iv](https://github.com/TapItNinja/FAANG/tree/master/0377-combination-sum-iv) |
 | [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/TapItNinja/FAANG/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/TapItNinja/FAANG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1236-n-th-tribonacci-number) |
@@ -593,4 +595,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/TapItNinja/FAANG/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/TapItNinja/FAANG/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/TapItNinja/FAANG/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
