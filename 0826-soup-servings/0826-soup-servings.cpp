@@ -1,18 +1,16 @@
-double dp[201][201];
 class Solution {
-public: 
-    double dfs(int A, int B){
-        if (A<=0 && B>0) return 1;
-        if (A<=0 && B<=0) return 0.5;
-        if (A>0 && B<=0) return 0;
-        if (dp[A][B]!=-1) return dp[A][B];
-        double ans=0.25*(dfs(A-4, B)+dfs(A-3, B-1)+dfs(A-2, B-2)+dfs(A-1, B-3));
-        return dp[A][B]=ans;
+public:
+    double solve(int A, int B, vector<vector<double>> &temp){
+        if(A<=0 && B<=0)return 0.5;
+        if(B<=0)return 0;
+        if(A<=0)return 1;
+        if(temp[A][B]!=-1.0)return temp[A][B];
+        return temp[A][B]=0.25*(solve(A-100, B, temp)+solve(A-75, B-25, temp)+solve(A-50, B-50, temp)+solve(A-25, B-75, temp));
     }
     double soupServings(int n) {
-        if (n>5000) return 1;
-        fill(&dp[0][0], &dp[0][0]+201*201, -1);
-        int N=ceil(n/25.0);
-        return dfs(N, N);
+        if(n>5000)return 1;
+        int soup_A=n, soup_B=n;
+        vector<vector<double>>temp(n+1, vector<double>(n+1, -1.0));
+        return solve(n, n, temp);
     }
 };
