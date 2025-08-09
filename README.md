@@ -109,6 +109,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TapItNinja/FAANG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TapItNinja/FAANG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/TapItNinja/FAANG/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1813-maximum-erasure-value](https://github.com/TapItNinja/FAANG/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TapItNinja/FAANG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -530,6 +531,7 @@
 | [0219-contains-duplicate-ii](https://github.com/TapItNinja/FAANG/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/TapItNinja/FAANG/tree/master/0940-fruit-into-baskets) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TapItNinja/FAANG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/TapItNinja/FAANG/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/TapItNinja/FAANG/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/TapItNinja/FAANG/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -547,6 +549,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TapItNinja/FAANG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/TapItNinja/FAANG/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/TapItNinja/FAANG/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/TapItNinja/FAANG/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
