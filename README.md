@@ -302,6 +302,7 @@
 | [0013-roman-to-integer](https://github.com/TapItNinja/FAANG/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TapItNinja/FAANG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/TapItNinja/FAANG/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/TapItNinja/FAANG/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/TapItNinja/FAANG/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/TapItNinja/FAANG/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TapItNinja/FAANG/tree/master/0160-intersection-of-two-linked-lists) |
@@ -409,6 +410,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/TapItNinja/FAANG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/TapItNinja/FAANG/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/TapItNinja/FAANG/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/TapItNinja/FAANG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/TapItNinja/FAANG/tree/master/0205-isomorphic-strings) |
@@ -553,6 +555,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TapItNinja/FAANG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/TapItNinja/FAANG/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/TapItNinja/FAANG/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/TapItNinja/FAANG/tree/master/0940-fruit-into-baskets) |
