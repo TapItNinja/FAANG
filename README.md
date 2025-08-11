@@ -70,6 +70,7 @@
 | [0039-combination-sum](https://github.com/TapItNinja/FAANG/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TapItNinja/FAANG/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/TapItNinja/FAANG/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/TapItNinja/FAANG/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/TapItNinja/FAANG/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TapItNinja/FAANG/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/TapItNinja/FAANG/tree/master/0066-plus-one) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TapItNinja/FAANG/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/TapItNinja/FAANG/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/TapItNinja/FAANG/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/TapItNinja/FAANG/tree/master/0164-maximum-gap) |
@@ -304,6 +306,7 @@
 | [0013-roman-to-integer](https://github.com/TapItNinja/FAANG/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TapItNinja/FAANG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/TapItNinja/FAANG/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/TapItNinja/FAANG/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/TapItNinja/FAANG/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/TapItNinja/FAANG/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/TapItNinja/FAANG/tree/master/0141-linked-list-cycle) |
@@ -414,6 +417,7 @@
 | [0020-valid-parentheses](https://github.com/TapItNinja/FAANG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TapItNinja/FAANG/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/TapItNinja/FAANG/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TapItNinja/FAANG/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/TapItNinja/FAANG/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/TapItNinja/FAANG/tree/master/0076-minimum-window-substring) |
