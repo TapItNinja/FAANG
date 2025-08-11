@@ -102,6 +102,7 @@
 | [0485-max-consecutive-ones](https://github.com/TapItNinja/FAANG/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/TapItNinja/FAANG/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/TapItNinja/FAANG/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
@@ -310,6 +311,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/TapItNinja/FAANG/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/TapItNinja/FAANG/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/TapItNinja/FAANG/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/TapItNinja/FAANG/tree/master/0940-fruit-into-baskets) |
@@ -572,6 +574,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TapItNinja/FAANG/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/TapItNinja/FAANG/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/TapItNinja/FAANG/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TapItNinja/FAANG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TapItNinja/FAANG/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
