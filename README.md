@@ -95,6 +95,7 @@
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TapItNinja/FAANG/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/TapItNinja/FAANG/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/TapItNinja/FAANG/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/TapItNinja/FAANG/tree/master/0377-combination-sum-iv) |
@@ -190,6 +191,7 @@
 | [0217-contains-duplicate](https://github.com/TapItNinja/FAANG/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TapItNinja/FAANG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TapItNinja/FAANG/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/TapItNinja/FAANG/tree/master/0436-find-right-interval) |
@@ -312,6 +314,7 @@
 | [0219-contains-duplicate-ii](https://github.com/TapItNinja/FAANG/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/TapItNinja/FAANG/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TapItNinja/FAANG/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TapItNinja/FAANG/tree/master/0424-longest-repeating-character-replacement) |
@@ -357,11 +360,13 @@
 | [0053-maximum-subarray](https://github.com/TapItNinja/FAANG/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/TapItNinja/FAANG/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/TapItNinja/FAANG/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/TapItNinja/FAANG/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/TapItNinja/FAANG/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -530,6 +535,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TapItNinja/FAANG/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TapItNinja/FAANG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TapItNinja/FAANG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -543,6 +549,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/TapItNinja/FAANG/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/TapItNinja/FAANG/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -643,4 +650,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/TapItNinja/FAANG/tree/master/0826-soup-servings) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TapItNinja/FAANG/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
