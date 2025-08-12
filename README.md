@@ -267,6 +267,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TapItNinja/FAANG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/TapItNinja/FAANG/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/TapItNinja/FAANG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/TapItNinja/FAANG/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/TapItNinja/FAANG/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/TapItNinja/FAANG/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/TapItNinja/FAANG/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
