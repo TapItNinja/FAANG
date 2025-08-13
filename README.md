@@ -88,6 +88,7 @@
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TapItNinja/FAANG/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/TapItNinja/FAANG/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/TapItNinja/FAANG/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/TapItNinja/FAANG/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/TapItNinja/FAANG/tree/master/0217-contains-duplicate) |
@@ -284,6 +285,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TapItNinja/FAANG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TapItNinja/FAANG/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TapItNinja/FAANG/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -570,6 +572,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TapItNinja/FAANG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TapItNinja/FAANG/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TapItNinja/FAANG/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TapItNinja/FAANG/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
@@ -596,6 +599,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/TapItNinja/FAANG/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TapItNinja/FAANG/tree/master/0560-subarray-sum-equals-k) |
