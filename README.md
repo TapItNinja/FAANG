@@ -243,6 +243,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TapItNinja/FAANG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TapItNinja/FAANG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/TapItNinja/FAANG/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/TapItNinja/FAANG/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TapItNinja/FAANG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -460,6 +461,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/TapItNinja/FAANG/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/TapItNinja/FAANG/tree/master/0135-candy) |
+| [1448-maximum-69-number](https://github.com/TapItNinja/FAANG/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TapItNinja/FAANG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TapItNinja/FAANG/tree/master/1818-maximum-score-from-removing-substrings) |
