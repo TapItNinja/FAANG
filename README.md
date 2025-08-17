@@ -238,6 +238,7 @@
 | [0507-perfect-number](https://github.com/TapItNinja/FAANG/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0523-continuous-subarray-sum) |
 | [0826-soup-servings](https://github.com/TapItNinja/FAANG/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/TapItNinja/FAANG/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/TapItNinja/FAANG/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1236-n-th-tribonacci-number) |
@@ -268,6 +269,7 @@
 | [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/TapItNinja/FAANG/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/TapItNinja/FAANG/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/TapItNinja/FAANG/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TapItNinja/FAANG/tree/master/1236-n-th-tribonacci-number) |
@@ -590,6 +592,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/TapItNinja/FAANG/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/TapItNinja/FAANG/tree/master/0713-subarray-product-less-than-k) |
+| [0867-new-21-game](https://github.com/TapItNinja/FAANG/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/TapItNinja/FAANG/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/TapItNinja/FAANG/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TapItNinja/FAANG/tree/master/1370-count-number-of-nice-subarrays) |
@@ -675,6 +678,7 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/TapItNinja/FAANG/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/TapItNinja/FAANG/tree/master/0867-new-21-game) |
 ## Quickselect
 |  |
 | ------- |
