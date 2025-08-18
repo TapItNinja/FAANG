@@ -109,6 +109,7 @@
 | [0523-continuous-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TapItNinja/FAANG/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/TapItNinja/FAANG/tree/master/0679-24-game) |
 | [0713-subarray-product-less-than-k](https://github.com/TapItNinja/FAANG/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/TapItNinja/FAANG/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/TapItNinja/FAANG/tree/master/0792-binary-search) |
@@ -237,6 +238,7 @@
 | [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/TapItNinja/FAANG/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0523-continuous-subarray-sum) |
+| [0679-24-game](https://github.com/TapItNinja/FAANG/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/TapItNinja/FAANG/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/TapItNinja/FAANG/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/TapItNinja/FAANG/tree/master/0900-reordered-power-of-2) |
@@ -552,6 +554,7 @@
 | [0078-subsets](https://github.com/TapItNinja/FAANG/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/TapItNinja/FAANG/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/TapItNinja/FAANG/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/TapItNinja/FAANG/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TapItNinja/FAANG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TapItNinja/FAANG/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
