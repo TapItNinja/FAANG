@@ -8,16 +8,20 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+//  struct ListNode{
+//     int val;
+//     ListNode* next;
+//  }
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(head==nullptr || head->next==nullptr)return head;
-        ListNode* prev=nullptr, *curr=head;
-        while(curr){
-            ListNode* next1=curr->next;
+        ListNode* prev =nullptr, *curr=head;
+        while(curr!=nullptr){
+            ListNode* nxt=curr->next;
+            // nxt->next=curr;
             curr->next=prev;
             prev=curr;
-            curr=next1;
+            curr=nxt;
         }
         return prev;
     }
