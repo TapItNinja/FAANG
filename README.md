@@ -338,6 +338,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/TapItNinja/FAANG/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TapItNinja/FAANG/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TapItNinja/FAANG/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/TapItNinja/FAANG/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/TapItNinja/FAANG/tree/master/0560-subarray-sum-equals-k) |
@@ -446,6 +447,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/TapItNinja/FAANG/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/TapItNinja/FAANG/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/TapItNinja/FAANG/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TapItNinja/FAANG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -595,6 +597,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/TapItNinja/FAANG/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TapItNinja/FAANG/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TapItNinja/FAANG/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/TapItNinja/FAANG/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/TapItNinja/FAANG/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/TapItNinja/FAANG/tree/master/0867-new-21-game) |
