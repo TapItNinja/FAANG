@@ -84,6 +84,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TapItNinja/FAANG/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/TapItNinja/FAANG/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/TapItNinja/FAANG/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/TapItNinja/FAANG/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/TapItNinja/FAANG/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/TapItNinja/FAANG/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TapItNinja/FAANG/tree/master/0169-majority-element) |
@@ -364,6 +365,7 @@
 | [0067-add-binary](https://github.com/TapItNinja/FAANG/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/TapItNinja/FAANG/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/TapItNinja/FAANG/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/TapItNinja/FAANG/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/TapItNinja/FAANG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TapItNinja/FAANG/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TapItNinja/FAANG/tree/master/0268-missing-number) |
