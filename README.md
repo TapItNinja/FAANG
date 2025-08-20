@@ -523,12 +523,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TapItNinja/FAANG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/TapItNinja/FAANG/tree/master/0199-binary-tree-right-side-view) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/TapItNinja/FAANG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/TapItNinja/FAANG/tree/master/0199-binary-tree-right-side-view) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/TapItNinja/FAANG/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
@@ -537,10 +539,12 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TapItNinja/FAANG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TapItNinja/FAANG/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/TapItNinja/FAANG/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TapItNinja/FAANG/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/TapItNinja/FAANG/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/TapItNinja/FAANG/tree/master/0322-coin-change) |
 ## Trie
 |  |
