@@ -118,6 +118,7 @@
 | [0940-fruit-into-baskets](https://github.com/TapItNinja/FAANG/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/TapItNinja/FAANG/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/TapItNinja/FAANG/tree/master/1036-rotting-oranges) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TapItNinja/FAANG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TapItNinja/FAANG/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -550,6 +551,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/TapItNinja/FAANG/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/TapItNinja/FAANG/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/TapItNinja/FAANG/tree/master/0322-coin-change) |
+| [1036-rotting-oranges](https://github.com/TapItNinja/FAANG/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -657,6 +659,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/TapItNinja/FAANG/tree/master/0037-sudoku-solver) |
+| [1036-rotting-oranges](https://github.com/TapItNinja/FAANG/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TapItNinja/FAANG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/TapItNinja/FAANG/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/TapItNinja/FAANG/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
