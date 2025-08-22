@@ -1,16 +1,16 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        set<int>res;
-        for(int num: nums){
-            res.insert(num);
+        int n = nums.size();
+        if (n == 0) return 0;
+
+        int l = 0; // pointer to last unique element
+        for (int r = 1; r < n; r++) {
+            if (nums[r] != nums[l]) {
+                l++;
+                nums[l] = nums[r]; // place next unique element
+            }
         }
-        int n=res.size();
-        int j=0;
-        for(int i: res){
-            nums[j]=i;
-            j++;
-        }
-        return n;
+        return l + 1; // length of unique elements
     }
 };
