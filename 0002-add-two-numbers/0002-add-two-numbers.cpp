@@ -13,7 +13,7 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         int carry=0;
         ListNode dummy(0);
-        ListNode* tail=&dummy;
+        ListNode * tail=&dummy;
         while(l1 || l2 || carry){
             int sum=carry;
             if(l1){
@@ -26,7 +26,7 @@ public:
             }
             carry=sum/10;
             int digit=sum%10;
-            tail->next =new ListNode(digit);
+            tail->next=new ListNode(digit);
             tail=tail->next;
         }
         return dummy.next;
