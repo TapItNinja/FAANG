@@ -74,6 +74,7 @@
 | [0049-group-anagrams](https://github.com/TapItNinja/FAANG/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/TapItNinja/FAANG/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/TapItNinja/FAANG/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/TapItNinja/FAANG/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/TapItNinja/FAANG/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/TapItNinja/FAANG/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/TapItNinja/FAANG/tree/master/0078-subsets) |
@@ -409,6 +410,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TapItNinja/FAANG/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/TapItNinja/FAANG/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/TapItNinja/FAANG/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
@@ -664,6 +666,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/TapItNinja/FAANG/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/TapItNinja/FAANG/tree/master/0054-spiral-matrix) |
 | [1036-rotting-oranges](https://github.com/TapItNinja/FAANG/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TapItNinja/FAANG/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/TapItNinja/FAANG/tree/master/1628-count-submatrices-with-all-ones) |
