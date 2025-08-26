@@ -260,6 +260,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TapItNinja/FAANG/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/TapItNinja/FAANG/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/TapItNinja/FAANG/tree/master/2032-largest-odd-number-in-string) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/TapItNinja/FAANG/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/TapItNinja/FAANG/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TapItNinja/FAANG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -473,6 +474,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TapItNinja/FAANG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TapItNinja/FAANG/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/TapItNinja/FAANG/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/TapItNinja/FAANG/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/TapItNinja/FAANG/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TapItNinja/FAANG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/TapItNinja/FAANG/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -493,6 +495,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TapItNinja/FAANG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TapItNinja/FAANG/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/TapItNinja/FAANG/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TapItNinja/FAANG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TapItNinja/FAANG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/TapItNinja/FAANG/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
