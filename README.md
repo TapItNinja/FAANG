@@ -137,6 +137,7 @@
 | [1813-maximum-erasure-value](https://github.com/TapItNinja/FAANG/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TapItNinja/FAANG/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/TapItNinja/FAANG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1917-maximum-average-pass-ratio](https://github.com/TapItNinja/FAANG/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/TapItNinja/FAANG/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/TapItNinja/FAANG/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/TapItNinja/FAANG/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -509,6 +510,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TapItNinja/FAANG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TapItNinja/FAANG/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/TapItNinja/FAANG/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/TapItNinja/FAANG/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/TapItNinja/FAANG/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TapItNinja/FAANG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -615,6 +617,7 @@
 | [0347-top-k-frequent-elements](https://github.com/TapItNinja/FAANG/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/TapItNinja/FAANG/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1917-maximum-average-pass-ratio](https://github.com/TapItNinja/FAANG/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TapItNinja/FAANG/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/TapItNinja/FAANG/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/TapItNinja/FAANG/tree/master/2479-meeting-rooms-iii) |
