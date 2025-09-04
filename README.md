@@ -282,6 +282,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TapItNinja/FAANG/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/TapItNinja/FAANG/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/TapItNinja/FAANG/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3830-find-closest-person](https://github.com/TapItNinja/FAANG/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
