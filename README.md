@@ -124,6 +124,7 @@
 | [0940-fruit-into-baskets](https://github.com/TapItNinja/FAANG/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/TapItNinja/FAANG/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/TapItNinja/FAANG/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/TapItNinja/FAANG/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/TapItNinja/FAANG/tree/master/1036-rotting-oranges) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TapItNinja/FAANG/tree/master/1370-count-number-of-nice-subarrays) |
@@ -388,6 +389,7 @@
 | [0900-reordered-power-of-2](https://github.com/TapItNinja/FAANG/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/TapItNinja/FAANG/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/TapItNinja/FAANG/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/TapItNinja/FAANG/tree/master/1006-vowel-spellchecker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/TapItNinja/FAANG/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TapItNinja/FAANG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -500,6 +502,7 @@
 | [0415-add-strings](https://github.com/TapItNinja/FAANG/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/TapItNinja/FAANG/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TapItNinja/FAANG/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1006-vowel-spellchecker](https://github.com/TapItNinja/FAANG/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/TapItNinja/FAANG/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/TapItNinja/FAANG/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TapItNinja/FAANG/tree/master/1460-number-of-substrings-containing-all-three-characters) |
