@@ -150,6 +150,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/TapItNinja/FAANG/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/TapItNinja/FAANG/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/TapItNinja/FAANG/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/TapItNinja/FAANG/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/TapItNinja/FAANG/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/TapItNinja/FAANG/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -280,6 +281,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/TapItNinja/FAANG/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/TapItNinja/FAANG/tree/master/2032-largest-odd-number-in-string) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/TapItNinja/FAANG/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/TapItNinja/FAANG/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/TapItNinja/FAANG/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TapItNinja/FAANG/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/TapItNinja/FAANG/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -474,6 +476,7 @@
 | [0496-next-greater-element-i](https://github.com/TapItNinja/FAANG/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/TapItNinja/FAANG/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/TapItNinja/FAANG/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/TapItNinja/FAANG/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -747,6 +750,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TapItNinja/FAANG/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/TapItNinja/FAANG/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
 | ------- |
