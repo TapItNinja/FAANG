@@ -6,7 +6,7 @@ public:
         for(int i=0; i<n; i++){
             int complement=target-nums[i];
             if(mpp.find(complement)!=mpp.end()){
-                return {mpp[complement], i};
+                return {i, mpp[complement]};
             }
             mpp[nums[i]]=i;
         }
